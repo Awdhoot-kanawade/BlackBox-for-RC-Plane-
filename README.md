@@ -26,5 +26,7 @@ BlackBox for RC plane uses ublox neo 6m gps module to log the data about the max
 3. SoftwareSerial
 
 **Connection :**
+
+
 ![alt text](https://i.ibb.co/kSRd1Y1/Schematic-New-Project-2020-08-04-17-24-26.png)
 
