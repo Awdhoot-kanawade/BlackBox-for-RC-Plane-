@@ -1,5 +1,5 @@
 # BlackBox-for-RC-Plane-
-BlackBox for RC plane uses ublox neo 6m gps module to log the data about the maximum Altitude , Distance traveled , Speed 
+BlackBox for RC plane uses ublox neo 6m gps module to log the data about the maximum Altitude , Distance traveled and Speed.
 
 **Parts list :**
 
